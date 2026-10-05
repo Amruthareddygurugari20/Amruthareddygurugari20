@@ -123,15 +123,13 @@ A **GPT-4 Vision** food scanner estimates a meal from a photo; **5 LangGraph age
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Amruthareddygurugari20&theme=react&hide_border=true&background=0d1117&ring=6f52ff&fire=6f52ff&currStreakLabel=6f52ff)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amruthareddygurugari20&theme=react-dark&hide_border=true&bg_color=0d1117&color=6f52ff&line=6f52ff&point=ffffff)
-
 </div>
 
 ## `OPERATING_PRINCIPLES`
 
-🧪 **Measure** — no AI claim is real until a reference-free check survives it.
-🧭 **Ground** — RAG systems should retrieve, verify, cite, and refuse when they can't.
-⚙️ **Deploy** — latency, reliability, and cost all count; ship it as a real service.
+🧪 **Measure** — no AI claim is real until a reference-free check survives it.<br>
+🧭 **Ground** — RAG systems should retrieve, verify, cite, and refuse when they can't.<br>
+⚙️ **Deploy** — latency, reliability, and cost all count; ship it as a real service.<br>
 🚢 **Useful** — the best model is the one people can actually use.
 
 <div align="center">
