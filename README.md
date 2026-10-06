@@ -76,7 +76,7 @@ Pre-registered study of silent arithmetic errors in LLM output (~750 generations
 A **5-agent LangGraph** system that profiles any company in under 2 minutes, streaming per-node progress. Every fact carries a source URL and a **verified/inferred tag enforced by deterministic guardrails, not the model** — so unsupported claims are dropped.
 `LangGraph · GPT-4o · Tavily · FastAPI · TypeScript`
 
-### 🧪 Reproducibility Watchdog
+### 🧪 [Reproducibility Watchdog](https://github.com/Amruthareddygurugari20/agent-watchdog)
 Takes a biology paper + its repo; an LLM extracts dependencies, a **no-LLM rules layer** verifies version pins/registries, a human signs off, and it emits a pinned Dockerfile. Its two-check rule means a real citation **can't launder an invented claim**. Audited on 3 lab repos; caught 6 mislabels, each now a regression test.
 `Python · Typer · Pydantic · Ollama (offline)`
 
