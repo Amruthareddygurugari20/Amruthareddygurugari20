@@ -1,37 +1,41 @@
-### `amrutha@gurugari:~$ whoami`
+### `amrutha@gurugari:~$ neofetch`
 
-<table>
-<tr>
-<td width="340" valign="top">
-<img src="https://amruthareddy.vercel.app/gh-portrait.png" width="320" alt="Amrutha Reddy Gurugari" />
-</td>
-<td valign="top">
-<pre>
-amrutha@gurugari
-----------------
-OS:          macOS · Linux · Azure cloud
-Host:        AI/ML & Full-Stack Engineer @ Innovision
-Education:   M.S. Artificial Intelligence, UC '26
-Shell:       python3 · FastAPI
-Uptime:      shipping production AI, end to end
-
-Languages.AI:     PyTorch · TensorFlow · LangGraph · RAG
-Languages.Code:   Python · TypeScript · JavaScript · SQL
-Languages.Human:  English
-
-Focus:       Agentic AI · multi-agent systems · LLM eval
-Signature:   finding where AI fails silently
-             (80.4% caught, 0 / 148 false alarms)
-
-Contact ------------------------------------
-Email:       gamruthareddy06@gmail.com
-Portfolio:   amruthareddy.vercel.app
-LinkedIn:    in/amrutha-reddy-gurugari-184100250
-GitHub:      @Amruthareddygurugari20
-</pre>
-</td>
-</tr>
-</table>
+```text
+                                                             amrutha@gurugari
+                                                             ----------------
+                                                             OS:          macOS · Linux · Azure cloud
+                    +}/z0wb#ohqzj/|tt}                       Host:        AI/ML & Full-Stack Engineer @ Innovision
+                i)zqhkM@$$$$$$$$$B&hb#MQ}                    Education:   M.S. Artificial Intelligence, UC '26
+              {J*&$MmM$$8&#aha#Ma&8#bqm*Bh[                  Shell:       python3 · FastAPI
+             CW8W#owaWpQYvn/({xCJOob#dOOqMBU!                Uptime:      shipping production AI, end to end
+            0$B&#*bbdLur(-?<+>~?/{xb%##B%*#B#\
+          ?m@MW#WohpLY\}I^"Il>~ii+~}O8B%@B*oW8n              Languages.AI:     PyTorch · TensorFlow · LangGraph · RAG
+         {o@&MW#*W#Qx(?<:";Ii~-?+<><>(p&8B@Wbpon             Languages.Code:   Python · TypeScript · JavaScript · SQL
+        <q$@8&#&&hz[-~>!: I!i~?]?---]{jmWa%BZLpMp{           Languages.Human:  English
+        r$$B8B@m/~::"`     I>~___+_-}txC8B@&bdZb#B|
+       {o$$%@&/II!<!<<>I  "l<+~<il;;l?\YW$W%$#Yqh8b;         Focus:       Agentic AI · multi-agent systems · LLM eval
+      iO#W#%8{I<]trncJqapU/}-~<i:,l>i<_{C8&%$hUooba1         Signature:   finding where AI fails silently (80.4%, 0/148 FP)
+      (8bbx#Z;-{xzXn//YmohC\<i_\YhMhqOJc0B$@$dh&hLqOi
+      C@hdCMxI<_}/0OdBoq*Ux]`'t%$%wunnLaBBB@@hqqLULkJ?       Highlights -----------------------------------
+     :ZB@c{k/lI;,,~\vCCCu[-i `u&bnY8W&$&d8@@MhQYJLCOMw\,       · Derived-Field Check — 80.4% silent-error catch, 0 FP
+     [Q&Ba-v\;,"  ^!+_+ii~iI`!z0f)\xvYXxu&$8bLxLdpOmbop[       · AI Client Discovery — 5-agent LangGraph + guardrails
+    </do&$z[t:,"   ,i_1/)+>I">vwx~il;,I[X@8*Cnq**pwpObac!      · MiniClaude — a coding agent from scratch, 55 tests
+   ~_LMW&8M1)~ii<~~-(cxt|[{>;-\xf""::I+}m8hbh&#bdQqdQZoZ(i
+  !~ram&88&8t;_?{(|/j}l`?vxx0b8hQ+:!<-|0#dMh##oCwXJpOQqbC1   Contact --------------------------------------
+  ~]wqZ**W8Wp:l>+?{)[{iI" '<)cYct+<?(np$WZMo#hoqOJYwbwLZC1   Email:       gamruthareddy06@gmail.com
+  ~rkw8@Mohp8Y:i+<_)vz/fff|(1|rxUx(-{OM@$ZbMM##*ddQJpqOZY?   Portfolio:   https://amruthareddy.vercel.app
+ ,>v#M%Mh&MZq@0_+]})}i-)/\tjjcQkJ/++0WM#*ZCkW*M*pabqLOZZC/   LinkedIn:    in/amrutha-reddy-gurugari-184100250
+ "}pB8h0L#kho@$*x}-+~~~[fYQUCwwcj)fa%W@wOOLOhZdpdqqbdZwwZv   GitHub:      @Amruthareddygurugari20
+,]0&hwqbpUZb%B&$@wz1l:,",i_}())uCdB&MWaoUdQQbJLqbwwpwdwqwz
+-J8dqbh8q0puh*da*pa*U[i::li>-)Ya8@#o&#0&kMaOwCJOZd0b0mqpdZ
+1*dZdaZOdkXUJhmOmd*%$@*mLCJLwo&8@8M&&&*kdMkaOmQLmaOZdQmdhO
+QbOQqdZC8&cQqdokbmhWMB$BOUUCOpk#WMWM*%oZobdqqhwbdoammZQd*q
+qOOmmOma$80vkqOdMokM*W#80/((xYCqaMabZ*wk*LCqmwkmbk#adU0wpb
+mw0LJOa&W#JcwqzJo#o*#@88b/[})(YbowwpbW#qaqbb0qawbwbohXLw0Q
+domOkao#bQXUb&hoawmqhM8BMr?_{zJmwL0mb*8bmhooZmaaawmoaU0QJ0
+aa00#MB&#aCOp#pa#aahaoM*pn?~\uruucmpdZakqkMbZoah#kOooU0dmw
+QOOOp%%&abqUYdO0odbMW&&bu{~>}(t(\}fo#*h*k#kobq*pho0##ZUaop
+```
 
 <div align="center">
 
@@ -41,12 +45,12 @@ GitHub:      @Amruthareddygurugari20
 </div>
 
 ### 🚀 Featured builds
-- [Derived-Field Check](https://github.com/Amruthareddygurugari20/Derived-Field-Check) — a reference-free checker that catches **80.4%** of silent LLM arithmetic errors (0 of 148 false alarms)
-- [AI Client Discovery](https://github.com/Amruthareddygurugari20/Ai-client-discovery) — a **5-agent LangGraph** system with verified/inferred guardrails enforced by deterministic code
-- [Reproducibility Watchdog](https://github.com/Amruthareddygurugari20/agent-watchdog) — paper + repo → a pinned Dockerfile via a **no-LLM rules gate**
-- [MiniClaude](https://github.com/Amruthareddygurugari20/minimal-coding-agent) — a coding agent built **from scratch** with a stdlib AST index; 55 tests
+- [Derived-Field Check](https://github.com/Amruthareddygurugari20/Derived-Field-Check) — catches **80.4%** of silent LLM arithmetic errors (0 of 148 false alarms)
+- [AI Client Discovery](https://github.com/Amruthareddygurugari20/Ai-client-discovery) — **5-agent LangGraph** with verified/inferred guardrails
+- [Reproducibility Watchdog](https://github.com/Amruthareddygurugari20/agent-watchdog) — paper + repo → pinned Dockerfile via a **no-LLM rules gate**
+- [MiniClaude](https://github.com/Amruthareddygurugari20/minimal-coding-agent) — a coding agent built **from scratch**; 55 tests
 - [OSINT Dashboard](https://github.com/Amruthareddygurugari20/-Live-flights-) — live map of **200+ aircraft** with a Claude analyst layer
-- [FitSmart AI](https://github.com/Amruthareddygurugari20/FitsmartAi) — **GPT-4 Vision** food scanner + 5 LangGraph agents
+- [FitSmart AI](https://github.com/Amruthareddygurugari20/FitsmartAi) — **GPT-4 Vision** + 5 LangGraph agents
 
 ### 📫 Find me
 🌐 **[amruthareddy.vercel.app](https://amruthareddy.vercel.app)** · ✉️ gamruthareddy06@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/amrutha-reddy-gurugari-184100250)
