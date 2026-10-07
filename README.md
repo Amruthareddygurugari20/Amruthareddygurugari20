@@ -1,6 +1,8 @@
-<a href="https://amruthareddy.vercel.app">
-  <img src="https://amruthareddy.vercel.app/profile-card.png" width="900" alt="Amrutha Reddy Gurugari — AI/ML & Full-Stack Engineer" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Amruthareddygurugari20 — AI/ML & Full-Stack Engineer" src="dark_mode.svg" />
+</picture>
 
 ### 🚀 Featured builds
 - [Derived-Field Check](https://github.com/Amruthareddygurugari20/Derived-Field-Check) — a reference-free checker that catches **80.4%** of silent LLM arithmetic errors (0 of 148 false alarms)
