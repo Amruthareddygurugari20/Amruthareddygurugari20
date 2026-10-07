@@ -1,26 +1,38 @@
 ### `amrutha@gurugari:~$ neofetch`
 
 ```text
-                  :=*##+==:                   amrutha@gurugari
-               :*@@@@%%@@@@%=                 ----------------
-              -@@@%*-::-=#@@@#                OS:          macOS · Linux · Azure cloud
-             -@@@#=    ::-#@@@#:              Host:        AI/ML & Full-Stack Engineer @ Innovision
-             %@%=-::     :+@@@@%              Education:   M.S. Artificial Intelligence, Univ. of Cincinnati '26
-            =@%=-+*#%= +###@@@@%+             Shell:       python3 · FastAPI
-            *@+:  -=-  #*#%@@@@%%+            Uptime:      shipping production AI, end to end
-            %@*:   :::-+::-%@@@@@%-
-           +@@@+:--::-+*--#@@@@@@%*           Languages.AI:     PyTorch · TensorFlow · LangGraph · RAG
-           %@@@@+---==*#+#@@@@@@@@#=          Languages.Code:   Python · TypeScript · JavaScript · SQL · R
-          +@@@@@@%+--=*%@@@@@@@@@@@*:         Languages.Human:  English
-         =@@@@@@@@@@##%@@@@@@@@@@@@%=
-        -#@@@@@@@@@@%+*@@@@@@@@@@@@@*-:       Focus:       Agentic AI · multi-agent systems · LLM eval
-       :=%@@@@@@@@@@%=+*#@@@@@@@@@@@*:        Signature:   finding where AI fails silently (80.4%, 0/148 FP)
-       =%@@@@@@@@@@@+---=%@@@@@@@@@@%---
-      -#@@@@@@@@@@@%*-  +@@@@@@@@@@@+         Contact ------------------------------------
-     -*%@@@@@@@@@@@%*: :+@@%@@@@@@@@+- :      Email:       gamruthareddy06@gmail.com
-    :+%%@@@@@@@@@@@#-:-++@@%@@@@@@@%#+:       Portfolio:   https://amruthareddy.vercel.app
-     +@@@@@@@@@@@%@*  --+@@##@@@@@@#+:   :    LinkedIn:    in/amrutha-reddy-gurugari-184100250
-                                              GitHub:      @Amruthareddygurugari20
+>                                                      amrutha@gurugari
+>                                                      ----------------
+<                                                      OS:          macOS · Linux · Azure cloud
+<                                                      Host:        AI/ML & Full-Stack Engineer @ Innovision
+<                 .,i>l                                Education:   M.S. Artificial Intelligence, UC '26
+<            .~fcZ#@$$$MdOCUv_                         Shell:       python3 · FastAPI
+~          <cbMh#$8Mabk#*%*bdhp?                       Uptime:      shipping production AI, end to end
++         \&WMhbhLvt([[fuJoWkh#&J,
++        r&WM#aqX\+,:I!i+-jkB$@#&ki                    Languages.AI:     PyTorch · TensorFlow · LangGraph · RAG
+_       X@WMW&kn{~,.`"l<><+}LW%@oqq?                   Languages.Code:   Python · TypeScript · JavaScript · SQL
+_      {%%&%bv?l^   .";!>~?|ub%@Wpd*c                  Languages.Human:  English
+_     Iq$%%U_<+~++I^"IlI,";+\O@B$WZh#[
++     nowa0<}jnjfLwJ(~!<}xvuuXW$$M*MwU                 Focus:       Agentic AI · multi-agent systems · LLM eval
+-    `khYw/>?{cYdmZz)";O%hmZd8$$$&*pLmn^               Signature:   finding where AI fails silently (80.4%, 0/148 FP)
+-    lb&fv1:"';]\|1+i.<ZUjphWhM$@oZqqObUI
+?    )qWp}{"`  ^l~~l:'+c(-?[1r#$#Oh&adwbj.             Highlights -----------------------------------
+-   >JoW8X}<ii!~{??1]<(c\:!<]X8&WB8*dhZwZ}               · Derived-Field Check — 80.4% silent-error catch, 0 FP
+-  ,twb&&@n!--][_"^>~f0Qf~]\J&*8%BMkmdkmwX~              · AI Client Discovery — 5-agent LangGraph + guardrails
+?  <Lb%8Woo)<__{\{}_-[\nzt{XW$#M@BBWophpwv[;             · MiniClaude — a coding agent from scratch, 55 tests
+-  ]h8MoBaM8c{[[~-(jnvQwY/Y&@M*k88%WW*kddLj<
++ iQ#aohkM$$$bc{>!i[\jnXQa@@B*oh*haWo**ahpz\I          Contact --------------------------------------
++IC*bo&*hqMM#MM#U\}{)fU*$$%$&%%8*kdo*oaa**Z\-!         Email:       gamruthareddy06@gmail.com
++)aph#d8*po&#oW$$$ammbWB@@@$BM8&##o#&ook#WbJ|+^        Portfolio:   https://amruthareddy.vercel.app
+rqkbkhM$&qMoWB8%%@*zuYQk8%W8&8Mo#MMM8%*d*#*dU)_!       LinkedIn:    in/amrutha-reddy-gurugari-184100250
+)qMhk#B%aq&**8W8@@%X\fXboko8@W&%M*8W#8Mphbhwc)<~]:     GitHub:      @Amruthareddygurugari20
+vo8hW@@%oh8888&&8BMY{tXYCm**&&&@M&%BM&&doaahx<!l^?:.
+kh**W$$%8hk*#&*%B&Q|?{\f/tpB8%%8%&B%&M@kM%qpmx)!) ll
+oo*WB&%$@WkoM8oWBMc)[}}{-/Y$B88%%W%%8M8#*M*wm1+}c['>
+W##BMa&%#&WoB$B8*qU/1>><]fb#%&8&W%88WBW*o#*dv>l!1] l
+#W&#M&8%B@%@%BWM*QXt~"`.?jo8Wao%%&&&%%B%*WaO|i;^.  "
+&8&*oM&@$@*&8BM&%dvXi<,?u(Z8aJd&B#h888B8hh*Z/{-'<|:,
+&Wa#Mo*8%@#M#%8*#x)?~;}v|rCW*UQd8&8B8@%MhMd0CXX;+~ll
 ```
 
 <div align="center">
